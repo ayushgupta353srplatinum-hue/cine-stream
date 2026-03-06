@@ -1,1 +1,39 @@
+body{
+  background:#0f0f0f;
+  color:white;
+  font-family:Arial;
+}
 
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  padding:20px;
+  background:black;
+}
+
+.navbar a{
+  margin-left:15px;
+  color:white;
+  text-decoration:none;
+}
+
+.container{
+  padding:20px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,200px);
+  gap:20px;
+}
+
+.movie-card img{
+  width:200px;
+  border-radius:10px;
+}
+
+.search{
+  padding:10px;
+  width:300px;
+  margin-bottom:20px;
+}
