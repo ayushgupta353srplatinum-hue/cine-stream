@@ -87,3 +87,11 @@ npm run dev
 
 This project demonstrates modern web development concepts like **API integration, React hooks, infinite scroll, debouncing, lazy loading and AI integration**.
 
+## Live Demo Link
+
+
+## YouTube Link
+
+
+##  Home Page
+![Home Page Screenshot](week-8ss.png)
