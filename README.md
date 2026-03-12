@@ -87,9 +87,6 @@ npm run dev
 
 This project demonstrates modern web development concepts like **API integration, React hooks, infinite scroll, debouncing, lazy loading and AI integration**.
 
-## Live Demo Link
-https://cine-stream-7dph.vercel.app/
-
 ## YouTube Link
 https://youtu.be/tZ_zDnca8TE?si=-YQVeBwHd7i1OSZ-
 
